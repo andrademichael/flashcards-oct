@@ -8,6 +8,7 @@ p {
   min-width: 200px;
   min-height: 100px;
   margin:2%;
+  /**/
 }
 .col-sm-12 {
   border: 2px solid blue;
