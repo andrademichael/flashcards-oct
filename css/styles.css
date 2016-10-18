@@ -1,0 +1,26 @@
+p {
+  display: none;
+}
+
+.col-sm-4 {
+  border: 2px solid blue;
+  max-width: 25%;
+  min-width: 200px;
+  min-height: 100px;
+  margin:2%;
+}
+.col-sm-12 {
+  border: 2px solid blue;
+  min-width: 200px;
+  max-width: 25%;
+  margin:2%;
+  min-height: 100px;
+}
+
+
+.row {
+
+}
+
+.row.col-sm-4 {
+}
